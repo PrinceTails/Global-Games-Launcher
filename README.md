@@ -1,0 +1,2 @@
+# Global-Games-Launcher
+GGL
